@@ -1,6 +1,7 @@
+# Python Projects
 Hi everyone, I'm Adrian Baraza Martinez.
 
-Here you have some python projects I've done.
+Here you have some Python projects I've done.
 Hope to help someone else.
 
 Thanks.
